@@ -2,7 +2,11 @@
 ##How to
 Copy and paste this: 
 ```sass
-@import 'https://cdn.rawgit.com/Rawnly/Colors-Variables/master/colors.scss';
+  @import 'https://cdn.rawgit.com/Rawnly/Colors-Variables/master/colors.scss';
+```
+or download the file and then include it: 
+```sass
+  @import 'colors';
 ```
 and then you can use it like 
 
