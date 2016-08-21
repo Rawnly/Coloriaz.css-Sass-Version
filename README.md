@@ -1,4 +1,4 @@
-# Colors-Variables
+# Coloraiz.scss (SASS Version)
 ##How to
 Copy and paste this: 
 ```sass
