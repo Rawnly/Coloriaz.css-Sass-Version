@@ -14,6 +14,8 @@ and then you can use it like
 ```
 
 ##Availables Colors
+![Palette](palette.png "Color Palette")
+
 ```sass
 $blue    //basic color [$blue-7]: #0A7BFF;
 $purple  //basic color [$purple-7]: #7F42B3;
